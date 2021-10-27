@@ -1,3 +1,5 @@
 This is Sample File 1
 
 this is some new text
+
+this is comparison lecture
